@@ -1,1 +1,1 @@
-# Digit-and-Alphabet-Recognition-Using-Support-Vector-Machines
+# Digit and Alphabet Recognition Using Support Vector Machines
